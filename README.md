@@ -32,16 +32,16 @@ To run this project locally, you will need:
 ## Installation
 
 1. Clone the repository:
-  # `git clone https://github.com/volodymyr-soltys97/memcrab_matrix.git`
+  #### `git clone https://github.com/volodymyr-soltys97/memcrab_matrix.git`
 
 2. Navigate to the project directory:
-  # `cd memcrab_matrix`
+  #### `cd memcrab_matrix`
 
 3. Install the dependencies:
-  # `npm install`
+  #### `npm install`
 
 4. Start the development server:
-  # `npm start`
+  #### `npm start`
 
 ## Author
 
