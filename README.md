@@ -1,43 +1,54 @@
-# Getting Started with Create React App
+# Matrix Manager
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+[DEMO LINK](https://volodymyr-soltys97.github.io/memcrab_matrix/)
 
-In the project directory, you can run:
+## Project Overview
 
-### `npm start`
+The Matrix Manager project provides a dynamic and interactive matrix interface where users can perform several operations. The matrix supports the ability to increase cell values by clicking, manage rows by adding or removing them, and visualize calculated row sums and column averages. The project is intended as a demonstration of managing complex state and rendering in a React application.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+# Features
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+ + Increment Cell Values: Click on any cell to increase its value by 1.
+ + Add Rows: Dynamically add new rows to the matrix.
+ + Remove Rows: Remove existing rows with a single click.
+ + Calculate Row Sums: Automatic calculation and display of row sums.
+ + Column Averages: View the average values of each column.
 
-### `npm test`
+# Requirements
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+To run this project locally, you will need:
 
-### `npm run build`
+ + Node.js v16 or higher
+ + npm or yarn
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Technologies 
+  + React
+  + TypeScript
+  + CSS
+  + GitHub Pages
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Installation
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. Clone the repository:
+  ### `git clone https://github.com/volodymyr-soltys97/memcrab_matrix.git`
 
-### `npm run eject`
+2. Navigate to the project directory:
+  ### `cd memcrab_matrix`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+3. Install the dependencies:
+  ### `npm install`
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+4. Start the development server:
+  ### `npm start`
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+# Author
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+  Developed by Volodymyr Soltys. You can reach me via:
+  [Linkedin](https://www.linkedin.com/in/volodymyr-soltys-01b10719a/)
+  Email: volodymyrsoltys.job@gmail.com
+
 
 ## Learn More
 
