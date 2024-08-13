@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/memcrab_matrix/static/css/main.78e37eae.css",
+    "main.js": "/memcrab_matrix/static/js/main.c646b6d6.js",
+    "index.html": "/memcrab_matrix/index.html",
+    "main.78e37eae.css.map": "/memcrab_matrix/static/css/main.78e37eae.css.map",
+    "main.c646b6d6.js.map": "/memcrab_matrix/static/js/main.c646b6d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78e37eae.css",
+    "static/js/main.c646b6d6.js"
+  ]
+}
